@@ -1,2 +1,0 @@
-# Billbuddy
-Expense Split Calculator
