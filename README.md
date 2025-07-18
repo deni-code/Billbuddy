@@ -1,6 +1,6 @@
-# BillBuddy - Expense Split Calculator
+# Sharesquare - Expense Split Calculator
 
-BillBuddy is a simple web app that helps you split bills among friends, including tax and tip calculations, with sharable results. Built with HTML, CSS, and JavaScript, it’s lightweight and easy to deploy.
+Sharesquare is a simple web app that helps you split bills among friends, including tax and tip calculations, with sharable results. Built with HTML, CSS, and JavaScript, it’s lightweight and easy to deploy.
 
 ## Features
 - Input total bill amount, tax rate, tip percentage, and number of people.
@@ -18,8 +18,8 @@ BillBuddy is a simple web app that helps you split bills among friends, includin
 ## Steps to Run Locally
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/BillBuddy.git
-   cd BillBuddy
+   git clone https://github.com/your-username/Sharesquare.git
+   cd Sharesquare
    ```
 2. **Open the App**:
    - Open `index.html` in a web browser. Since the app uses only HTML, CSS, and JavaScript, no server is required.
